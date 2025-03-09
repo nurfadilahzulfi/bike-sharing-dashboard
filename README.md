@@ -1,4 +1,4 @@
-# 🎈 Bike-Sharing Dashboard
+# Bike-Sharing Dashboard
 
 ### How to run it on your own machine
 
@@ -11,5 +11,5 @@
 2. Run the app
 
    ```
-   $ streamlit run dashboard.py
+   $ streamlit run dashboard/dashboard.py
    ```
