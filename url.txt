@@ -1,2 +1,2 @@
 link github : https://github.com/nurfadilahzulfi/bike-sharing-dashboard
-link deploy : 
+link deploy : https://bike-sharing-dashboard-xyz.streamlit.app/
