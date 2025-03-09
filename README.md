@@ -1,4 +1,4 @@
-# 🎈 Bike-Sharing Dashboard
+# Bike-Sharing Dashboard
 
 ### How to run it on your own machine
 
