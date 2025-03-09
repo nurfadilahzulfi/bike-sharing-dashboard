@@ -19,10 +19,10 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     # Memuat tabel day
-    day_df = pd.read_csv("day_clean.csv")
+    day_df = pd.read_csv("dashboard/day_clean.csv")
     
     # Memuat tabel hour
-    hour_df = pd.read_csv("hour_clean.csv")
+    hour_df = pd.read_csv("dashboard/hour_clean.csv")
     
     # Menghapus kolom workingday
     hour_df.drop(['workingday'], axis=1, inplace=True)
